@@ -1,0 +1,7 @@
+git branch development
+git branch feature/database-service
+git branch feature/chache-service
+git checkout development
+touch git-setup.txt
+git merge feature/databse-service
+git merge feature/cachee service
